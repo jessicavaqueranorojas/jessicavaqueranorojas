@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jessicavaqueranorojas
-- 👀 I’m interested in Web Development and coding.
-- 🌱 I’m currently learning how to code webpages using CSS, Javascript, Bootstrap and many others.
-- 💞️ I’m looking to further my coding skills by creating other websites and do possible freelance work.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning how to code webpages using HTML, CSS, and JavaScript, looking to add much more to my tool belt.
 - 📫 Reach me via email at jessicavaquerano@gmail.com.
 
 <!---
